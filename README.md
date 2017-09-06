@@ -1,6 +1,6 @@
 # CS510 CW 2
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Aly Baughman and Seong Lee**
 
 ## Specification
 
@@ -16,7 +16,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**We found it very useful to learn that some problems that seem like they would take many lines of code, only need very few to run successfully.**
 
 ## Honor Pledge
 
@@ -27,4 +27,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Aly Baughman and Seong Lee**
